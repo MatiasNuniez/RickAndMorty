@@ -1,0 +1,89 @@
+body{
+ margin:0;
+ padding: 0;
+ font-family:'Fira Code'
+}
+
+.footer{
+ display: block;
+ margin-bottom: 0;
+ background-color: #aee;
+ width: 100%;
+ bottom: 0;
+ min-height: 200px;
+}
+
+.footer ul{
+ list-style-type: none;
+}
+
+.footer p{
+ text-align: center;
+ align-items: center;
+ margin: 0px;
+}
+
+
+
+.footer a{
+ text-decoration: none;
+ color: #fff;
+}
+
+.imagen{
+ width: 100%;
+ max-width: 300px;
+ border-radius: 50%;
+ margin-top: 80px;
+ margin-bottom: 80px;
+}
+
+.img{
+ width: 100%;
+ justify-content: center;
+ text-align: center;
+}
+
+.img p{
+ justify-content: center;
+ text-shadow: 1px 1px 6px #fff;
+ width: 100%;
+}
+
+.footer li{
+ padding: 8px;
+}
+
+.exp{
+ margin-top: 80px;
+ width: 100%;
+ justify-content: center;
+ text-align: center;
+}
+
+.listas{
+ list-style-type: none;
+}
+
+.cursos-proyectos{
+ text-align: center;
+ justify-content: center;
+ margin-top: 80px;
+}
+
+.cursos-proyectos a{
+ text-decoration: none;
+}
+
+.footer a{
+ font-family: 'Fira Code';
+}
+
+.cursos{
+ margin-top: 80px;
+}
+.imgs{
+ text-align: center;
+ justify-content: center;
+}
+
